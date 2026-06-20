@@ -1,0 +1,14 @@
+id: dutylist.jimmyxiao
+name: 值日生名单
+version: 1.2.0.0
+apiversion: 1.2.0.0
+entranceAssembly: DutyListPlugin.dll
+description: 显示可配置的值日生名单组件，支持按星期、按时间段配置多组人员及自定义颜色
+author: Jimmyxiao2009
+url: https://github.com/Jimmyxiao2009/DutyList
+repoOwner: Jimmyxiao2009
+repoName: DutyList
+assetsRoot: main/
+artifactName: plugin.cipx
+
+
